@@ -35,7 +35,7 @@ The system generates three types of analysis:
 1. **Get the Code**:
    ```
    # Option 1: Clone with Git
-   git clone https://github.com/vignesh3022/VRV-Security-Python-Intern-Assignment.git
+   git clone(https://github.com/Thamizharasu14/Log-Analysis-Script)
    cd log-analysis-system
 
    # Option 2: Download ZIP
